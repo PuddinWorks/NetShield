@@ -1,0 +1,11 @@
+{
+  "name": "NetShield.Editor",
+  "rootNamespace": "NetShield",
+  "references": [
+    "NetShield"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

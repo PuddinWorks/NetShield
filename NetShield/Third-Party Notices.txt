@@ -1,0 +1,45 @@
+NetShield - Third-party sources
+
+No third-party code or IP lists are bundled. Check each source's license before using or sharing downloaded data. Repository licenses may not cover upstream data.
+
+Joe12387/open-source-vpn-ip-lists - VPN lists
+License: CC0 1.0
+https://github.com/Joe12387/open-source-vpn-ip-lists
+https://github.com/Joe12387/open-source-vpn-ip-lists/blob/master/LICENSE
+https://creativecommons.org/publicdomain/zero/1.0/
+
+millshre5/vpnips - VPN provider IPs
+License: MIT, Copyright (c) 2026 millshre5
+https://github.com/millshre5/vpnips
+https://github.com/millshre5/vpnips/blob/main/LICENSE
+Check upstream data licenses separately.
+
+X4BNet/lists_vpn - VPN and hosting ranges
+Repository license: MIT, Copyright (c) 2026 X4B (Mathew Heard)
+https://github.com/X4BNet/lists_vpn
+https://github.com/X4BNet/lists_vpn/blob/main/README.md
+IP address data powered by IPLocate.io (https://www.iplocate.io/).
+Upstream data: CC BY-SA 4.0. See ASN-DATABASE.txt and https://creativecommons.org/licenses/by-sa/4.0/ for attribution and share-alike requirements.
+
+Proxmint - public proxy IPs
+License: CC BY 4.0
+https://proxmint.com/free-proxies
+https://github.com/proxmint/free-proxy-list
+https://github.com/proxmint/free-proxy-list/blob/main/LICENSE
+https://creativecommons.org/licenses/by/4.0/
+NetShield removes ports and protocols and groups the IPs. It does not connect to the proxies.
+
+Tor Project - Tor exit nodes
+https://check.torproject.org/torbulkexitlist
+https://www.torproject.org/
+Redistribution rights have not been verified.
+
+ipify - optional public IP lookup
+https://www.ipify.org/
+https://api.ipify.org
+https://api6.ipify.org
+ipify sees the connection IP. Review its service and privacy terms.
+
+GitHub raw content hosts the repository feeds. Check the terms of any custom sources you add.
+
+Data is normalized and grouped by provider. Downloaded data is not covered by the NetShield License. Keep required credits and license notices when sharing data. NetShield is not affiliated with the listed providers.
